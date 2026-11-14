@@ -11,11 +11,3 @@ I’m a senior software engineer with over a decade of experience in the tech in
 My personal site is an interactive 3D studio built with React and Three.js. Look around the room, change the skyline and weather, or open the in-room computer to browse my profile, play music, and try Orbital Patrol.
 
 [Explore the studio ↗](https://felixpy.com/) · [View the source ↗](https://github.com/felixpy/felixpy.com)
-
-## 🧭 Career
-
-| Years        | Work and education       |
-| ------------ | ------------------------ |
-| 2021–present | Senior Software Engineer |
-| 2014–2021    | Engineering Manager      |
-| 2010–2014    | Beihang University       |
