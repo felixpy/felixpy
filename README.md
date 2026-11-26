@@ -1,6 +1,6 @@
 # Felix Yang
 
-**Full-stack engineer and AI maker**
+**Full-stack engineer building with AI**
 
 I’m a senior software engineer with over a decade of experience in the tech industry. In my own projects, I explore how AI fits into building apps, making videos, and designing games.
 
